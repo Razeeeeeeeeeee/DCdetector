@@ -1,0 +1,95 @@
+
+
+
+2024-07-21 23:07:45
+================ Hyperparameters ===============
+anormly_ratio: 0.6
+batch_size: 256
+d_model: 256
+data_path: SMD
+dataset: SMD
+devices: 0,1,2,3
+e_layers: 3
+gpu: 0
+index: 137
+input_c: 38
+k: 3
+loss_fuc: MSE
+lr: 0.0001
+mode: train
+model_save_path: checkpoints
+n_heads: 1
+num_epochs: 2
+output_c: 38
+patch_size: [5, 7]
+rec_timeseries: True
+use_gpu: False
+use_multi_gpu: True
+win_size: 105
+====================  Train  ===================
+
+
+
+2024-07-21 23:08:16
+================ Hyperparameters ===============
+anormly_ratio: 0.6
+batch_size: 256
+d_model: 256
+data_path: SMD
+dataset: SMD
+devices: 0,1,2,3
+e_layers: 3
+gpu: 0
+index: 137
+input_c: 38
+k: 3
+loss_fuc: MSE
+lr: 0.0001
+mode: train
+model_save_path: checkpoints
+n_heads: 1
+num_epochs: 2
+output_c: 38
+patch_size: [5, 7]
+rec_timeseries: True
+use_gpu: False
+use_multi_gpu: True
+win_size: 105
+====================  Train  ===================
+
+
+
+2024-07-22 18:58:17
+================ Hyperparameters ===============
+anormly_ratio: 0.6
+batch_size: 256
+d_model: 256
+data_path: SMD
+dataset: SMD
+devices: 0,1,2,3
+e_layers: 3
+gpu: 0
+index: 137
+input_c: 38
+k: 3
+loss_fuc: MSE
+lr: 0.0001
+mode: train
+model_save_path: checkpoints
+n_heads: 1
+num_epochs: 2
+output_c: 38
+patch_size: [5, 7]
+rec_timeseries: True
+use_gpu: False
+use_multi_gpu: True
+win_size: 105
+====================  Train  ===================
+	speed: 22.2298s/iter; left time: 120774.6523s
+	speed: 24.3726s/iter; left time: 129978.8323s
+	speed: 22.5850s/iter; left time: 118187.2167s
+	speed: 22.5102s/iter; left time: 115544.8290s
+	speed: 22.7965s/iter; left time: 114734.8861s
+	speed: 23.0740s/iter; left time: 113824.0063s
+	speed: 24.4409s/iter; left time: 118122.9688s
+	speed: 23.0888s/iter; left time: 109279.4484s

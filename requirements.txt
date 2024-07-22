@@ -1,0 +1,12 @@
+arch
+einops
+matplotlib
+numpy
+pandas
+Pillow
+scikit_learn
+scipy
+statsmodels
+torch
+tqdm
+tsfresh
